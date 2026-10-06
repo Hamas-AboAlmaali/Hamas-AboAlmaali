@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 - 🌱 I’m a Full-Stack & AI Engineer specializing in building high-performance, scalable web and mobile applications.
 - 💡 Passionate about integrating LLMs (OpenAI, Google Gemini) for semantic search, RAG, and AI-driven features.
-- 🏫 Mentored 500+ developers as a Frontend Engineering Instructor at the **Information Technology Institute (ITI)**.
+- 🏫 Mentored 500+ developers as a Software Engineering Instructor at the **Information Technology Institute (ITI)**.
 - ⚡ Focused on clean architecture, extreme performance optimization, and seamless user experiences.
 - 📧 Reach out: [hamasahmed0@gmail.com](mailto:hamasahmed0@gmail.com) | 🌐 Portfolio: [hamasahmed.com](https://www.hamasahmed.com/)
 
@@ -45,11 +45,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamas-AboAlmaal&show_icons=true&theme=radical&hide_border=true&bg_color=20,20,20" alt="Hamas's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamas-AboAlmaali&show_icons=true&theme=radical&hide_border=true&bg_color=20,20,20" alt="Hamas's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamas-AboAlmaal&layout=compact&theme=radical&hide_border=true&bg_color=20,20,20" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamas-AboAlmaali&layout=compact&theme=radical&hide_border=true&bg_color=20,20,20" alt="Top Languages" />
 </p>
 
 ---
