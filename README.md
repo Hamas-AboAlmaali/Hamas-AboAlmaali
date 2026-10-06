@@ -39,17 +39,3 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamas-AboAlmaali&show_icons=true&theme=radical&hide_border=true&bg_color=20,20,20" alt="Hamas's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamas-AboAlmaali&layout=compact&theme=radical&hide_border=true&bg_color=20,20,20" alt="Top Languages" />
-</p>
-
----
